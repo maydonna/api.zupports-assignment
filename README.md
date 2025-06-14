@@ -18,6 +18,8 @@ Please visit /docs for API documents.
 ### Requirement
 
 - PHP 8.3
+- Redis
+- Google Maps API
 
 ### Installation
 
