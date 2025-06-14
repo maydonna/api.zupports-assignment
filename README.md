@@ -31,3 +31,4 @@ Please visit /docs for API documents.
    use `composer install --ignore-platform-req ext-pcntl --ignore-platform-req ext-posix`)
 5. Run `php artisan key:generate`
 6. Run `php artisan storage:link`
+7. Add your google maps api key to `GOOGLE_MAPS_API_KEY` in .env
